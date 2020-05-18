@@ -11,6 +11,7 @@ module.exports = {
     author: "zihao zhang",
   },
   plugins: [
+    "gatsby-plugin-theme-ui",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
