@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import Metadata from "../components/metadata"
 
 import Button from "../components/button"
-import Text from "../components/Text"
+import Text from "../components/text"
 
 const Index = () => {
   return (
