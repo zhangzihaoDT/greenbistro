@@ -1,8 +1,8 @@
 /** @jsx jsx */
-import { jsx } from "theme-ui"
-
+import { jsx, Styled } from "theme-ui"
+//使用Styled样式化组件，从而优化出<h1>,<h2>的标签
 const Text = ({ variant = "heading", ...props }) => (
-  <p
+  <Styled.p
     {...props}
     sx={{
       m: 0,
