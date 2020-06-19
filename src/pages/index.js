@@ -21,7 +21,7 @@ const Index = () => {
         body / hello world
       </Text>
       <Text as="h4" variant="label">
-        label / hello world
+        label / ;lll;;;;
       </Text>
     </Layout>
   )
